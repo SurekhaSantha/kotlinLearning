@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task.iml" group="kotlin/Coffee_Machine-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Board game basics  Player/Problems-Board_game_basics__Player.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Board game basics  Player/Problems-Board_game_basics__Player.iml" group="kotlin/Problems-Board_game_basics__Player" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Collatz conjecture/Problems-Collatz_conjecture.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Collatz conjecture/Problems-Collatz_conjecture.iml" group="kotlin/Problems-Collatz_conjecture" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Digits or not/Problems-Digits_or_not.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Digits or not/Problems-Digits_or_not.iml" group="kotlin/Problems-Digits_or_not" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Playing with time/Problems-Playing_with_time.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Playing with time/Problems-Playing_with_time.iml" group="kotlin/Problems-Playing_with_time" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Print two numbers on the same line/Problems-Print_two_numbers_on_the_same_line.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Print two numbers on the same line/Problems-Print_two_numbers_on_the_same_line.iml" group="kotlin/Problems-Print_two_numbers_on_the_same_line" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Sequence/Problems-Sequence.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Sequence/Problems-Sequence.iml" group="kotlin/Problems-Sequence" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/kotlin.iml" filepath="$PROJECT_DIR$/.idea/kotlin.iml" group="kotlin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="kotlin/util" />
+    </modules>
+  </component>
+</project>
